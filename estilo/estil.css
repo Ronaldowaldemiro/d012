@@ -38,6 +38,11 @@ header > p > a {
     text-decoration: none;
 }
 
+div {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
 .c1 {
     background-color: white;
     color: black;
